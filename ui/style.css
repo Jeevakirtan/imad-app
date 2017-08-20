@@ -19,4 +19,12 @@ body {
 .img-medium {
     height: 200px;
 }
+    
+             .container
+            {
+            max-width:300px;
+            margin:0 auto;
+            color:blue;
+             }
+    
 
